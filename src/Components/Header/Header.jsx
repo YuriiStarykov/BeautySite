@@ -8,7 +8,7 @@ const Header = () => {
             <div><a>Продукція</a></div>
             <div><a>Ціна</a></div>
             <div><a>Про нас</a></div>
-            <div><a>Контакти</a></div>
+            <div><a>Контакти!!</a></div>
         </div>
     );
 };
