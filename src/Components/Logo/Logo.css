@@ -1,0 +1,9 @@
+.mainLogo {
+    background-color: #936c93;
+    display: flex;
+    justify-content: space-around;
+}
+.logo {
+    border:solid white;
+
+}
